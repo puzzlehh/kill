@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+
+
+rocketmq:
+  endpoint: "10.21.32.237:8080;"
+  accessKey: "123456"
+
